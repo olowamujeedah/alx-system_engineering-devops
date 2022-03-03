@@ -1,2 +1,2 @@
 #!/bin/bash
-Chown --from=guillaume Betty hello
+telnet towel.blinkenlights.nl
